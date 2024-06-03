@@ -1,2 +1,17 @@
 # News_Collector
-키워드 기반 뉴스 분류 &amp; 실시간 업데이트 프로그램입니다.
+
+## Project Name
+---
+News Collector(Temporary title)
+
+## Overview
+---
+
+### What This Program Do?
+
+It must continue to run until the user shuts down the program or shuts down the computer.
+
+
+## License
+---
+This Project is licensed under the MIT License; see LICENSE.txt for details. 
