@@ -8,6 +8,7 @@ News Collector(Temporary title)
 
 
 ### What This Program Do?
+---
 
 It must continue to run until the user shuts down the program or shuts down the computer.
 
